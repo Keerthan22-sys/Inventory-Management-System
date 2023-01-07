@@ -21,3 +21,6 @@ Use Xampp interpreter to run this web application. Sample YouTube link to run ap
 5) Over here on menu tab, click import -> file to import(upload inventory_project.sql) -> click go
 6) Open your browser, type localhost/Inventory-Management/view
 
+Tada application is successfully running, Happy Coding!!
+
+For any queries, feel free to reach - https://www.linkedin.com/in/keerthangowdas
